@@ -8,6 +8,4 @@ We are trying to check whether git commit has worked.
 
 * Microsoft OneDrive offers 100GB for Rs 140
 
-* Apple iCloud offers 50GB for Rs 75 per month
-
 ** Last line added **
